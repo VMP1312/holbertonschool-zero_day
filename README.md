@@ -1,1 +1,1 @@
-This repo contains the projects for the day 0
+This repo contains the projects of the week 0
