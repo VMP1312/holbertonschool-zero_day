@@ -1,1 +1,1 @@
-Projects of the week 0
+*Projects of the week 0*
