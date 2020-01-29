@@ -21,14 +21,26 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	1
 
 # File marks:
-'0  1  0  ~/holbertonschool-zero_day/0x02-vi/0-inserting
+'0  3  10  /etc/resolv.conf
+'1  1  0  ~/holbertonschool-zero_day/0x02-vi/0-inserting
 
 # Jumplist (newest first):
+-'  3  10  /etc/resolv.conf
+-'  1  0  /etc/resolv.conf
+-'  1  0  ~/holbertonschool-zero_day/0x02-vi/0-inserting
 -'  1  0  ~/holbertonschool-zero_day/0x02-vi/0-inserting
 
 # History of marks within files (newest to oldest):
+
+> /etc/resolv.conf
+	"	3	10
+	^	3	17
+	.	3	10
+	+	3	10
 
 > ~/holbertonschool-zero_day/0x02-vi/0-inserting
 	"	1	0
